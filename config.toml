@@ -1,0 +1,4 @@
+title = "My blog"
+theme="hyde"
+languageCode = "en-us"
+baseurl = "http://replace-this-with-your-hugo-site.com/"
