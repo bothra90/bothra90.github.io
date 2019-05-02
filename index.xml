@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello, World!</title>
+    <title>Work In Progress</title>
     <link>https://swe.dev/</link>
-    <description>Recent content on Hello, World!</description>
+    <description>Recent content on Work In Progress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="https://swe.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About me</title>
+      <link>https://swe.dev/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://swe.dev/page/about/</guid>
+      <description>My name is Abhay, and I am a software engineer. Currently, I work on the blockchain team at Facebook.
+I believe I have found my ikigai in building high-quality software systems, and hope to share some of my passion for the craft with readers of this blog.</description>
+    </item>
     
   </channel>
 </rss>
