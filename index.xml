@@ -6,6 +6,7 @@
     <description>Recent content on A Software Craftsman&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://swe.dev/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +14,7 @@
     <item>
       <title>About me</title>
       <link>https://swe.dev/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://swe.dev/page/about/</guid>
       <description>My name is Abhay, and I am a software engineer currently working on the Blockchain team at Facebook.

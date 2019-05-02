@@ -3,12 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://swe.dev/</loc>
-    <priority>0</priority>
+    <loc>https://swe.dev/page/about/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://swe.dev/page/about/</loc>
+    <loc>https://swe.dev/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -18,6 +20,7 @@
   
   <url>
     <loc>https://swe.dev/page/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
