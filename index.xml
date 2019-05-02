@@ -6,19 +6,9 @@
     <description>Recent content on A Software Craftsman&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Mar 2019 01:44:58 -0800</lastBuildDate>
     
 	<atom:link href="https://swe.dev/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Paper export test</title>
-      <link>https://swe.dev/post/sample_brainstorm/</link>
-      <pubDate>Wed, 06 Mar 2019 01:44:58 -0800</pubDate>
-      
-      <guid>https://swe.dev/post/sample_brainstorm/</guid>
-      <description>Sample: Brainstorm Lets create a low-fi prototype of a polygon gaming app as a proof of concept. As a new medium, users may not be familiar with virtual reality interactions yet. Because the virtual reality canvas is infinite, guiding user focus and attention presents unique challenges not present in 2D applications. This spec will cover successful interactive patterns and how to avoid common design mistakes that confuse users with virtual reality interfaces.</description>
-    </item>
     
     <item>
       <title>About me</title>
