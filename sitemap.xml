@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://swe.dev/post/sample_brainstorm/</loc>
+    <lastmod>2019-03-06T01:44:58-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://swe.dev/page/about/</loc>
   </url>
   
@@ -17,12 +22,19 @@
   </url>
   
   <url>
+    <loc>https://swe.dev/post/</loc>
+    <lastmod>2019-03-06T01:44:58-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://swe.dev/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://swe.dev/</loc>
+    <lastmod>2019-03-06T01:44:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   
